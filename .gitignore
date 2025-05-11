@@ -70,6 +70,10 @@ ScaffoldingReadMe.txt
 StyleCopReport.xml
 
 # Files built by Visual Studio
+# SQLite database files
+*.db
+*.db-shm
+*.db-wal
 *_i.c
 *_p.c
 *_h.h
